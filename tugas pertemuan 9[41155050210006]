@@ -4,7 +4,7 @@ Kelas	: INF A1
 Tugas 9!
 Studi Kasus Machine Learning
 1.	Syntax di bawah ini adalah untuk menghubungkan google colab dengan drive
-![Image](https://github.com/user-attachments/assets/55c61977-bd85-4f80-8684-7d48220d9d3b)
+![Image](https://github.com/user-attachments/assets/dc393065-9afd-412e-8634-e1923d41101a)
 2.	Syntax di bawah ini untuk mengecek apakah sudah terhubung dengan google drive atau belum jika sudah maka output yang di hasilkan akan terbaca file file yang di upload di dalam Gdrive
 ![Image](https://github.com/user-attachments/assets/d08694ff-8d83-4af2-b749-d2b7043f2f29)
 3.	Langkah ke 3 kita siapkan terlebih dahulu library yang akan digunakan untuk mengoperasikan Kmeans ini
